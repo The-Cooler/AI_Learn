@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "0539c6287f5bebdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c925c9742412afc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e33f72b53e754ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RNN架构/RNN大概.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RNN大概"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d5ba7ab3809d5a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b98d08601a05bf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56dffed44192139c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "75f5f4a1ecf03000",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8210dd58ae041850",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "227b4c74a8497306",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fca0396b033190a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b15bd61670d2219d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RNN架构/RNN大概.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "RNN大概 的反向链接列表"
+            }
+          },
+          {
+            "id": "8e26bce247ea691e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RNN架构/RNN大概.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "RNN大概 的出链列表"
+            }
+          },
+          {
+            "id": "bec8b9420ad13aeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c971f40c1a5384bc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "50cd8e42fb9905e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RNN架构/RNN大概.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "RNN大概 的大纲"
+            }
+          },
+          {
+            "id": "245ffa10d6cb043f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e33f72b53e754ae1",
+  "lastOpenFiles": [
+    "resources/RNN/Pasted image 20251119101023.png",
+    "resources/RNN",
+    "RNN架构/RNN大概.md",
+    "resources",
+    "未命名.md",
+    "基础知识",
+    "编码",
+    "Transformer架构",
+    "欢迎.md",
+    "RNN架构",
+    "数学相关"
+  ]
+}
