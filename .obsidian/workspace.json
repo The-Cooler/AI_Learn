@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RNN架构/RNN大概.md",
+                "file": "基础知识/NLP常见任务（不重要）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RNN大概"
+              "title": "NLP常见任务（不重要）"
             }
           }
         ]
@@ -194,14 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56dffed44192139c",
+  "active": "e33f72b53e754ae1",
   "lastOpenFiles": [
+    "未命名.md",
+    "基础知识/NLP常见任务（不重要）.md",
+    "RNN架构/RNN大概.md",
     "resources/RNN/rnn结构.png",
     "resources/RNN/Pasted image 20251119101023.png",
     "resources/RNN",
-    "RNN架构/RNN大概.md",
     "resources",
-    "未命名.md",
     "基础知识",
     "编码",
     "Transformer架构",
