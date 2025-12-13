@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础知识/NLP常见任务（不重要）.md",
+                "file": "RNN架构/LSTM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NLP常见任务（不重要）"
+              "title": "LSTM"
             }
           }
         ]
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,16 +191,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "e33f72b53e754ae1",
+  "active": "56dffed44192139c",
   "lastOpenFiles": [
-    "resources/RNN/rnn结构.png",
-    "基础知识/NLP常见任务（不重要）.md",
-    "未命名.md",
+    "RNN架构/注意力机制.md",
+    "RNN架构/LSTM.md",
     "RNN架构/RNN大概.md",
+    "基础知识/NLP常见任务（不重要）.md",
+    "resources/RNN/rnn结构.png",
+    "未命名.md",
     "resources/RNN/Pasted image 20251119101023.png",
     "resources/RNN",
     "resources",
