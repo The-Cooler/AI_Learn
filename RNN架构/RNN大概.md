@@ -54,11 +54,7 @@ _“我叫李宁。”_
 ![[rnn结构.png]]
 
 
-```mermaid
-flowchart LR
-Start --> Stop
 
-```
 
 RNN对于第一个token，输入是它的embedding，经过两层，一个隐藏层（3个神经元）。一个是输出层，输出层有3个神经元，对应NER的三分类。这看起来和普通的神经网络没有区别。
 
