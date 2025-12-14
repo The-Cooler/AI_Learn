@@ -186,12 +186,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,11 +207,12 @@
   },
   "active": "56dffed44192139c",
   "lastOpenFiles": [
-    "resources/RNN/LSTM.png",
-    "RNN架构/注意力机制.md",
-    "RNN架构/LSTM.md",
-    "resources/RNN/rnn结构.png",
     "RNN架构/RNN大概.md",
+    "RNN架构/LSTM.md",
+    "RNN架构/注意力机制.md",
+    "resources/RNN/LSTM.png",
+    "Pasted image 20251214160128.png",
+    "resources/RNN/rnn结构.png",
     "resources/RNN/长距离反向传播.png",
     "基础知识/NLP常见任务（不重要）.md",
     "未命名.md",
